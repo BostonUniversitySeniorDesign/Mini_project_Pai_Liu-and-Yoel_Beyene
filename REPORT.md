@@ -11,7 +11,17 @@ Testing times: 2 times, first time scan 100 loops, second time 200 loops.
 
 Explanation:
 base on the datas and plot we got from the wifi scanner, the activity the clear. I believe the distance from scanner to Highway is too far. 
-There are maximum 7 devices in the 1 loop of scanning. If we get closer to the highway I believe the number of device will increase.
+There are maximum 7 devices in the 1 loop of scanning. If we get closer to the highway I believe the number of device will increase.!
+
+15mins scanning:
+[15min](https://user-images.githubusercontent.com/52738892/133869264-d8d59829-8fce-4438-b6e2-e298c0b1dd5e.png)
+
+
+
+10mins scanning:
+![10mins](https://user-images.githubusercontent.com/52738892/133869280-af077b0f-9767-4c59-91ba-b783aae6d9c6.png)
+
+
 
 Difficulties:
 In the beginning, we have issue on ssh connect. After some research on the Pi Community, we solve all of the problems. later on the project, the most of time spend is on transfer python file between Mac and Pi. For the SCP method, we have trouble to locate the scan data on the Mac, we simply email the data from Pi to Mac to solve this problem.
