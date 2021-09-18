@@ -1,1 +1,4 @@
+MiniProject Report for Yoel and Pai
 
+We first started off by getting the micro SD card to use for this mini project. We then moved forward to installing the Raspberry Pi operating system onto the lab and our own computer. We did this by downloaded the OS image onto our SD card using the installer. We then moved onto connecting the Raspberry Pi by using the external HDMI display method. We then connected the Raspberry PI over SSH by using the commands provided on the GitHub. We had a few problems to begin with connecting the Raspberry Pi as our files were out of order, but this was quickly fixed once we recognized the problem. We connected to the BU guest wifi on both the lab computer and our own personal computer to enable the WiFi internet connection. Once we were able to do this, we moved onto copying the python code. We again had a few difficulties doing this due to
+After running the wifi_scan.py program and the wifi_plot.py, we were able to start collecting
